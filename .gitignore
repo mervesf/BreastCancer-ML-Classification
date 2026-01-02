@@ -1,0 +1,34 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+models/*.pkl
+models/*.joblib
+output/*.png
+!output/.gitkeep
+!models/.gitkeep
+!data/.gitkeep
+!assets/.gitkeep
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (if large)
+data/*.csv
+!data/.gitkeep
