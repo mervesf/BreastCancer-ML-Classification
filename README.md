@@ -55,12 +55,12 @@ Compare **6 machine learning algorithms** for breast cancer diagnosis using the 
 │                    ML PIPELINE                                  │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
-│  Raw Data ──► DataProcessor ──► ModelTrainer ──► Evaluator     │
+│  Raw Data ──► DataProcessor ──► ModelTrainer ──► Evaluator      │
 │                    │                  │              │          │
-│              - Clean data      - 6 Algorithms   - Metrics      │
-│              - Handle outliers - GridSearchCV   - Confusion    │
-│              - Scale features  - Cross-Val      - ROC Curve    │
-│              - Feature select  - Compare        - Interpret    │
+│              - Clean data      - 6 Algorithms   - Metrics       │
+│              - Handle outliers - GridSearchCV   - Confusion     │
+│              - Scale features  - Cross-Val      - ROC Curve     │
+│              - Feature select  - Compare        - Interpret     │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -266,16 +266,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/)
 - [GridSearchCV Guide](https://scikit-learn.org/stable/modules/grid_search.html)
 
-## 📬 Contact
-
-**Merve** - [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
-
-Project Link: [https://github.com/yourusername/BreastCancer-ML-Classification](https://github.com/yourusername/BreastCancer-ML-Classification)
-
 ---
 
 <p align="center">
-  Made with ❤️ by Merve
+  Built by <a href="https://github.com/mervesf">Merve</a> · ⭐ Star if you found this useful!
 </p>
 
 <p align="center">
